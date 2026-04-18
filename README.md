@@ -155,16 +155,16 @@ until someone thinks like an attacker."
 ---
 ## 🏆 CTFs & ACHIEVEMENTS
 Timeline: 2022 – 2026
-+ Top 80 Global — Hack The Box University CTF 2025
++ Top 80th Global — Hack The Box University CTF 2025
 + Champion — CSAD 2026 Capture The Flag (CTF), DIU
 + Finalist — DIU CyberCon CTF 2025 (Team: R00tcr4Ck3Rs)
 + Finalist — BUP CSE Tech Carnival 2025 CTF (Team: 5H4DH1N 5H3LL)
 + 7th Position — Google Hacking Contest 2023
-+ 251 / 1971 Teams — Reply AI Agent Challenge 2026
++ 251th / 1971 Teams — Reply AI Agent Challenge 2026
 ---
 
 ## 🧭 LEADERSHIP
-IEEE DIU Student Branch Ecosystem
+IEEE DIU Student Branch :
 + President — IEEE DIU Student Branch (2024–2025)
 + President — IEEE DIU Student Branch (2025–2026)
 + Vice President — IEEE DIU CS Chapter (2024–2025)
