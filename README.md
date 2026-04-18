@@ -148,7 +148,7 @@ until someone thinks like an attacker."
 
 ```bash
 GitHub : https://github.com/rastthack
-Email  : your-email@example.com
+Email  : raduan202259@gmail.com
 ```
 
 ---
