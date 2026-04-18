@@ -10,7 +10,11 @@
 - Identify vulnerabilities → Exploit ethically → Build intelligent defenses
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rastthack&label=Visitors&color=00ff00&style=flat" />
+</p>
 
+---
 ## ⚔️ THREAT MODEL: ME
 
 ```yaml
@@ -175,10 +179,6 @@ $ echo "Hack. Learn. Secure. Repeat."
 ```
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rastthack&label=Visitors&color=00ff00&style=flat" />
-</p>
 
 ```bash
 $ exit
