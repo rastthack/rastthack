@@ -124,13 +124,23 @@ Mindset:
 ```
 
 ---
+## 🏅 CERTIFICATIONS
+✔ API-RTA
+✔ CASA
+✔ CBTP
+✔ CCEP
+✔ CPPS
+✔ ISO/IEC 27001:2022
+
+---
 
 ## 🎯 TARGET ROLE
 
 ```diff
-+ Security Researcher (Intern)
++ Security Researcher 
 + Web / API Penetration Tester
 + AI Security Engineer
++ VideCoder
 ```
 
 ---
