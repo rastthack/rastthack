@@ -183,14 +183,6 @@ Focus:
 - Goal: Real-time intelligent phishing detection system
 
 ---
-## 📫 CONTACT
-
-```bash
-GitHub : https://github.com/rastthack
-Email  : raduan202259@gmail.com
-```
-
----
 
 ## ⚡ LIVE TERMINAL
 
