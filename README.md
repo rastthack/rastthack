@@ -1,100 +1,146 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Raduan Ahamed (`rastthack`)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Engineer+in+Progress;AI+Security+Researcher;Ethical+Hacker;Full-Stack+Builder;Breaking+%26+Securing+Systems..." />
-</p>
+# 🧠 Raduan Ahamed (`rastthack`)
 
 ```bash
 $ whoami
-Cybersecurity | AI | Research | Builder
-
-$ status
-Building intelligent systems to detect and prevent cyber threats
+Security Researcher | Web & API Pentester | AI Security Explorer
+Vibe Coder | Builder | Lifelong Learner
 ```
-
----
-
-## 🧠 PROFILE SUMMARY
-
-Cybersecurity-focused developer specializing in **AI-driven security systems**, with hands-on experience in **penetration testing, phishing detection, and full-stack development**.
-
-Focused on building **real-world, production-level security tools** and researching how **Artificial Intelligence can enhance cyber defense systems**.
-
----
-
-## ⚔️ CORE EXPERTISE
 
 ```bash
-Cybersecurity : Ethical Hacking | Web Security | OWASP Top 10 | XSS
-AI / ML       : NLP | BERT | XLNet | Phishing Detection Systems
-Development   : Python | C++ | JavaScript
-Frameworks    : Django | Flask | Next.js
-Tools         : Kali Linux | Burp Suite | Nmap | Git | Linux
+$ mission
+Identify vulnerabilities → Exploit ethically → Build intelligent defenses
 ```
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## ⚔️ THREAT MODEL: ME
+
+```yaml
+Name: Raduan Ahamed
+Alias: rastthack
+Focus:
+  - Web Application Security
+  - API Security Testing
+  - AI-driven Threat Detection
+Environment:
+  - Kali Linux | Linux | Windows
+Mindset:
+  - Offensive Security First
+  - Think Like Attacker, Build Like Defender
+```
+
+---
+
+## 🔥 CORE EXPERTISE
+
+### 🛡️ Security & Penetration Testing
+
+* Web Application Penetration Testing
+* API Penetration Testing
+* OWASP Top 10 & OWASP API Top 10
+
+### 💣 Attack Surface Knowledge
+
+* SQL Injection (SQLi)
+* Cross-Site Scripting (XSS)
+* IDOR & Access Control Issues
+* CSRF, LFI, JWT Vulnerabilities
+* API Security Weaknesses
+
+### 🤖 AI / ML (Security Focus)
+
+* NLP, BERT, XLNet
+* Classical ML: RF, SVM, KNN, NB, DT, LR
+* Applied ML for **Phishing Detection Systems**
+
+### 💻 Development & Systems
+
+* Python, C/C++, JavaScript, SQL
+* Django, Flask
+* Bash Scripting
+
+### 🧰 Tools & Environment
+
+* Burp Suite | Postman | OWASP ZAP
+* Nmap | Wireshark | sqlmap
+* Kali Linux | Linux Systems
+
+---
+
+## 🚀 PROJECTS (PROOF OF WORK)
 
 ### 🔍 AI-Powered Phishing Detection System
 
-* Engineered a detection system using **Machine Learning + NLP**
-* Implemented **BERT & XLNet models** for intelligent classification
-* Designed for **real-time threat detection**
+* Built ML/NLP-based detection system for malicious URLs
+* Implemented **BERT & XLNet** for intelligent classification
+* Focused on **real-time threat detection pipeline**
 
 ---
 
 ### 🌐 Phistool – Real-Time Phishing Detection Platform
 
-* Built a full-stack platform for analyzing suspicious URLs
-* Integrated backend ML model with user interface
-* Provides **instant risk analysis and link inspection**
+* Full-stack phishing detection web platform
+* Integrated ML backend with interactive frontend
+* Performs **live URL risk analysis & inspection**
 
 ---
 
-### ⚙️ TABL – Custom Compiler with Optimization
+### 🕷️ XSS Scanner
 
-* Designed and implemented a custom programming language
-* Built compiler using **ANTLR + C++**
-* Includes **lexical analysis, IR generation, and optimization**
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rastthack&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rastthack&theme=tokyonight&hide_border=true" />
-</p>
+* Developed a custom **XSS vulnerability detection tool**
+* Designed to identify reflected & basic injection points
 
 ---
 
-## 🧪 CURRENT FOCUS
+### 🔎 Blind Recon Automation
+
+* Automated recon workflow for target domains
+* Executes multiple tools sequentially
+* Stores structured outputs for analysis
+
+---
+
+### 🌐 HTTP Header Analyzer
+
+* Analyzes response headers for security misconfigurations
+* Helps identify missing protections (CSP, HSTS, etc.)
+
+---
+
+### 🔌 Custom Port Scanner
+
+* Built TCP port scanner for network enumeration
+* Useful for basic recon and service discovery
+
+---
+
+## 🧪 ACTIVE OPERATIONS
 
 ```bash
+> Researching AI in Cybersecurity & Threat Detection
 > Building advanced phishing detection systems
-> Researching AI in Cyber Forensics
-> Learning Deep Learning & Transformer architectures
-> Exploring scalable and secure system design
+> Practicing Web & API exploitation techniques
+> Automating recon and vulnerability scanning workflows
 ```
 
 ---
 
-## 🎯 CAREER TARGET
+## 🎯 TARGET ROLE
 
 ```diff
-+ Cybersecurity Engineer (Intern)
-+ AI Security Researcher
-+ Software Engineering Intern
++ Security Researcher (Intern)
++ Web / API Penetration Tester
++ AI Security Engineer
 ```
 
 ---
 
-## 🤝 EXPERIENCE & COMMUNITY
+## 🧠 SECURITY PHILOSOPHY
 
-* Active in **IEEE technical community**
-* Organized and contributed to **tech workshops & sessions**
-* Experience in **team-based development & research projects**
+```bash
+"Every system is secure...
+until someone thinks like an attacker."
+```
 
 ---
 
@@ -107,26 +153,26 @@ Email  : your-email@example.com
 
 ---
 
-## ⚡ TERMINAL MODE
+## ⚡ LIVE TERMINAL
 
 ```bash
 $ sudo access rastthack
 
-[✔] Security Knowledge Loaded
-[✔] AI Models Ready
-[✔] Projects Deployed
-[✔] Open for Opportunities
+[✔] Recon Skills Loaded
+[✔] Exploitation Knowledge Active
+[✔] AI Models Integrated
+[✔] Ready for Security Challenges
 
-$ echo "Let's build secure systems together."
+$ echo "Hack. Learn. Secure. Repeat."
 ```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rastthack&label=Profile+Views&color=00ff00&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rastthack&label=Visitors&color=00ff00&style=flat" />
 </p>
 
 ```bash
 $ exit
-Session terminated...
+Connection closed.
 ```
