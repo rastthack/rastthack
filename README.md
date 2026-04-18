@@ -155,7 +155,18 @@ until someone thinks like an attacker."
 ```
 
 ---
+## 📚 RESEARCH & THESIS WORK
+🎓 Final Year Thesis:
+Title: Advanced Phishing URL Detection System using Machine Learning and Neural Networks
 
+Focus:
+- Phishing URL classification using ML & Deep Learning
+- Feature engineering on URL structures
+- Neural Network-based detection improvements
+- Dataset: PhiUSIIL Phishing URL Dataset
+- Goal: Real-time intelligent phishing detection system
+
+---
 ## 📫 CONTACT
 
 ```bash
