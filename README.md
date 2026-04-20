@@ -4,7 +4,7 @@
 
 <p align="center">  Contact Me </p>
 ##  $ whoami
-+ Security Researcher | Web & API Pentester | AI Security Explorer | Vibe Coder | Builder | Lifelong Learner
+- Security Researcher | Web & API Pentester | AI Security Explorer | Vibe Coder | Builder | Lifelong Learner
 
 ## $ mission
 - Identify vulnerabilities → Exploit ethically → Build intelligent defenses
