@@ -26,7 +26,7 @@ Focus:
   - API Security Testing
   - AI-driven Threat Detection
 Environment:
-  - Kali Linux | Linux | Windows
+  - Kali Linux | Mac OS | Windows
 Mindset:
   - Offensive Security First
   - Think Like Attacker, Build Like Defender
