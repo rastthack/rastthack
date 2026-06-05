@@ -78,23 +78,41 @@ Mindset:
 * Implemented **BERT & XLNet** for intelligent classification
 * Focused on **real-time threat detection pipeline**
 ---
- ██████╗  █████╗ ███████╗████████╗████████╗
-██╔══██╗██╔══██╗██╔════╝╚══██╔══╝╚══██╔══╝
-██████╔╝███████║███████╗   ██║      ██║
-██╔══██╗██╔══██║╚════██║   ██║      ██║
-██║  ██║██║  ██║███████║   ██║      ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝
-###  RASTT — Recon And Security Testing Tool
 
+###  ## 🚀 RASTT (Recon And Security Testing Tool)
+
+* Comprehensive bug bounty and penetration testing assistant
+* Automated passive and active reconnaissance workflows
+* Subdomain enumeration, takeover detection, and OSINT collection
+* Integrated XSS, SQLi, IDOR, authentication, and API security testing
+* Dual-account testing framework for IDOR validation
+* Payload library for XSS, SQLi, SSRF, XXE, and Path Traversal
+* Smart tool detection and integration with industry-standard security tools
+* Automated session management and organized result storage
+* Guided vulnerability report generation with CVSS support
+* Supports Nmap, Nuclei, Dalfox, SQLMap, Hydra, FFUF, Subfinder, Amass, and more
+* Interactive CLI interface designed for bug bounty hunters
+* Generates structured reports in Markdown, TXT, and JSON formats
+* Built for authorized security testing, bug bounty programs, and security research
+  
 ---
- ██████╗  █████╗ ████████╗██╗  ██╗    ████████╗██████╗  █████╗ ██╗   ██╗
- ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ╚══██╔══╝██╔══██╗██╔══██╗██║   ██║
- ██████╔╝███████║   ██║   ███████║       ██║   ██████╔╝███████║██║   ██║
- ██╔═══╝ ██╔══██║   ██║   ██╔══██║       ██║   ██╔══██╗██╔══██║╚██╗ ██╔╝
- ██║     ██║  ██║   ██║   ██║  ██║       ██║   ██║  ██║██║  ██║ ╚████╔╝
- ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
 
-### Advanced Path Traversal Scanner  |  Burp-Style Repeater
+### 🔍 PathTravScan
+
+* Advanced Path Traversal & Local File Inclusion (LFI) Scanner
+* 300+ auto-generated payloads with 14 encoding techniques
+* Burp Suite–style repeater for manual request testing
+* Legacy TLS 1.0 support for testing older systems
+* Proxy integration (Burp Suite and other HTTP proxies)
+* Multi-threaded scanning for faster assessments
+* Smart vulnerability detection with confidence scoring
+* Severity-based findings (Critical, High, Medium, Info)
+* JSON and TXT report generation
+* Custom wordlist import and payload export support
+* Rich terminal UI with tables, progress bars, and live findings
+* Designed for authorized penetration testing and bug bounty programs
+
+
 ---
 ### 🕷️ XSS Scanner
 
