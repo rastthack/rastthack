@@ -70,24 +70,32 @@ Mindset:
 
 ---
 
-## 🚀 PROJECTS (PROOF OF WORK)
+## 🚀 PROJECTS 
 
 ### 🔍 AI-Powered Phishing Detection System
 
 * Built ML/NLP-based detection system for malicious URLs
 * Implemented **BERT & XLNet** for intelligent classification
 * Focused on **real-time threat detection pipeline**
+---
+ ██████╗  █████╗ ███████╗████████╗████████╗
+██╔══██╗██╔══██╗██╔════╝╚══██╔══╝╚══██╔══╝
+██████╔╝███████║███████╗   ██║      ██║
+██╔══██╗██╔══██║╚════██║   ██║      ██║
+██║  ██║██║  ██║███████║   ██║      ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝
+###  RASTT — Recon And Security Testing Tool
 
 ---
+ ██████╗  █████╗ ████████╗██╗  ██╗    ████████╗██████╗  █████╗ ██╗   ██╗
+ ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ╚══██╔══╝██╔══██╗██╔══██╗██║   ██║
+ ██████╔╝███████║   ██║   ███████║       ██║   ██████╔╝███████║██║   ██║
+ ██╔═══╝ ██╔══██║   ██║   ██╔══██║       ██║   ██╔══██╗██╔══██║╚██╗ ██╔╝
+ ██║     ██║  ██║   ██║   ██║  ██║       ██║   ██║  ██║██║  ██║ ╚████╔╝
+ ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
 
-### 🌐 Phistool – Real-Time Phishing Detection Platform
-
-* Full-stack phishing detection web platform
-* Integrated ML backend with interactive frontend
-* Performs **live URL risk analysis & inspection**
-
+### Advanced Path Traversal Scanner  |  Burp-Style Repeater
 ---
-
 ### 🕷️ XSS Scanner
 
 * Developed a custom **XSS vulnerability detection tool**
