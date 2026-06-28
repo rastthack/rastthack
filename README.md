@@ -111,6 +111,4 @@ Focus:
 - Neural Network-based detection improvements
 - Dataset: PhiUSIIL Phishing URL Dataset
 - Goal: Real-time intelligent phishing detection system
-$ echo "Hack. Learn. Secure. Repeat."
-```
 
