@@ -70,78 +70,6 @@ Mindset:
 
 ---
 
-## 🚀 PROJECTS 
-
-### 🔍 AI-Powered Phishing Detection System
-
-* Built ML/NLP-based detection system for malicious URLs
-* Implemented **BERT & XLNet** for intelligent classification
-* Focused on **real-time threat detection pipeline**
----
-
-###  ## 🚀 RASTT (Recon And Security Testing Tool)
-
-* Comprehensive bug bounty and penetration testing assistant
-* Automated passive and active reconnaissance workflows
-* Subdomain enumeration, takeover detection, and OSINT collection
-* Integrated XSS, SQLi, IDOR, authentication, and API security testing
-* Dual-account testing framework for IDOR validation
-* Payload library for XSS, SQLi, SSRF, XXE, and Path Traversal
-* Smart tool detection and integration with industry-standard security tools
-* Automated session management and organized result storage
-* Guided vulnerability report generation with CVSS support
-* Supports Nmap, Nuclei, Dalfox, SQLMap, Hydra, FFUF, Subfinder, Amass, and more
-* Interactive CLI interface designed for bug bounty hunters
-* Generates structured reports in Markdown, TXT, and JSON formats
-* Built for authorized security testing, bug bounty programs, and security research
-  
----
-
-### 🔍 PathTravScan
-
-* Advanced Path Traversal & Local File Inclusion (LFI) Scanner
-* 300+ auto-generated payloads with 14 encoding techniques
-* Burp Suite–style repeater for manual request testing
-* Legacy TLS 1.0 support for testing older systems
-* Proxy integration (Burp Suite and other HTTP proxies)
-* Multi-threaded scanning for faster assessments
-* Smart vulnerability detection with confidence scoring
-* Severity-based findings (Critical, High, Medium, Info)
-* JSON and TXT report generation
-* Custom wordlist import and payload export support
-* Rich terminal UI with tables, progress bars, and live findings
-* Designed for authorized penetration testing and bug bounty programs
-
-
----
-### 🕷️ XSS Scanner
-
-* Developed a custom **XSS vulnerability detection tool**
-* Designed to identify reflected & basic injection points
-
----
-
-### 🔎 Blind Recon Automation
-
-* Automated recon workflow for target domains
-* Executes multiple tools sequentially
-* Stores structured outputs for analysis
-
----
-
-### 🌐 HTTP Header Analyzer
-
-* Analyzes response headers for security misconfigurations
-* Helps identify missing protections (CSP, HSTS, etc.)
-
----
-
-### 🔌 Custom Port Scanner
-
-* Built TCP port scanner for network enumeration
-* Useful for basic recon and service discovery
-
----
 
 ## 🧪 ACTIVE OPERATIONS
 
@@ -161,25 +89,7 @@ Mindset:
 ✔ CPPS
 ✔ ISO/IEC 27001:2022
 
----
 
-## 🎯 TARGET ROLE
-
-```diff
-+ Security Researcher 
-+ Web / API Penetration Tester
-+ AI Security Engineer
-+ VideCoder
-```
-
----
-
-## 🧠 SECURITY PHILOSOPHY
-
-```bash
-"Every system is secure...
-until someone thinks like an attacker."
-```
 ---
 ## 🏆 CTFs & ACHIEVEMENTS
 Timeline: 2022 – 2026
@@ -191,13 +101,6 @@ Timeline: 2022 – 2026
 + 251th / 1971 Teams — Reply AI Agent Challenge 2026
 ---
 
-## 🧭 LEADERSHIP
-IEEE DIU Student Branch :
-+ President — IEEE DIU Student Branch (2024–2025)
-+ President — IEEE DIU Student Branch (2025–2026)
-+ Vice President — IEEE DIU CS Chapter (2024–2025)
-
----
 ## 📚 RESEARCH & THESIS WORK
 🎓 Final Year Thesis:
 Title: Advanced Phishing URL Detection System using Machine Learning and Neural Networks
@@ -208,25 +111,6 @@ Focus:
 - Neural Network-based detection improvements
 - Dataset: PhiUSIIL Phishing URL Dataset
 - Goal: Real-time intelligent phishing detection system
-
----
-
-## ⚡ LIVE TERMINAL
-
-```bash
-$ sudo access rastthack
-
-[✔] Recon Skills Loaded
-[✔] Exploitation Knowledge Active
-[✔] AI Models Integrated
-[✔] Ready for Security Challenges
-
 $ echo "Hack. Learn. Secure. Repeat."
 ```
 
----
-
-```bash
-$ exit
-Connection closed.
-```
