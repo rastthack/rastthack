@@ -24,7 +24,7 @@ Alias: rastthack
 Focus:
   - Web Application Security
   - API Security Testing
-  - AI-driven Threat Detection
+  - AI/LLM Security
 Environment:
   - Kali Linux | Mac OS | Windows
 Mindset:
@@ -50,17 +50,6 @@ Mindset:
 * CSRF, LFI, JWT Vulnerabilities
 * API Security Weaknesses
 
-### 🤖 AI / ML (Security Focus)
-
-* NLP, BERT, XLNet
-* Classical ML: RF, SVM, KNN, NB, DT, LR
-* Applied ML for **Phishing Detection Systems**
-
-### 💻 Development & Systems
-
-* Python, C/C++, JavaScript, SQL
-* Django, Flask
-* Bash Scripting
 
 ### 🧰 Tools & Environment
 
